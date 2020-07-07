@@ -1,0 +1,3642 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f9f9f9
+}
+.style3 {
+  background-color: #303030;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100vw;
+  height: 2.1961932650073206vw;
+  z-index: 2
+}
+.style16 {
+  margin-left: 7.174231332357247vw;
+  margin-top: .5124450951683748vw;
+  width: 1.0248901903367496vw;
+  height: 1.0248901903367496vw;
+  z-index: 15
+}
+.style7 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7320644216691069vw;
+  margin-top: .43923865300146414vw;
+  z-index: 6
+}
+.style17 {
+  margin-left: 2.1882399283949487vw;
+  margin-top: .6588579795021962vw;
+  width: 1.0248901903367496vw;
+  height: .7826798133235725vw;
+  z-index: 16
+}
+.style8 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7400177582814788vw;
+  margin-top: .43923865300146414vw;
+  z-index: 7
+}
+.style19 {
+  margin-left: 16.140090249816986vw;
+  margin-top: .5124450951683748vw;
+  width: .8207128477306003vw;
+  height: 1.0248901903367496vw;
+  z-index: 18
+}
+.style11 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7551559068448024vw;
+  margin-top: .43923865300146414vw;
+  z-index: 10
+}
+.style58 {
+  margin-left: 2.2719376258235724vw;
+  margin-top: .6817349926793558vw;
+  width: .388909224011713vw;
+  height: .7878913711838282vw;
+  z-index: 57
+}
+.productpagecontainer2col7 {
+  display: flex;
+  margin-left: .14298133235724744vw;
+  margin-top: .6817349926793558vw;
+  width: .9322382869692533vw;
+  height: .7878930467463168vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style59,
+.style60,
+.style61 {
+  width: .9322382869692533vw;
+  height: .11418720988194031vw;
+  z-index: 58
+}
+.style60,
+.style61 {
+  height: .11418734951214769vw;
+  z-index: 59
+}
+.style61 {
+  z-index: 60
+}
+.style15 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .6563200608528551vw;
+  margin-top: .43923865300146414vw;
+  z-index: 14
+}
+.style26 {
+  margin-left: 2.1961932650073206vw;
+  margin-top: .5856512580748707vw;
+  width: .8950273952232797vw;
+  height: 1.0248901903367496vw;
+  z-index: 25
+}
+.style14 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7155143324487555vw;
+  margin-top: .43923865300146414vw;
+  z-index: 13
+}
+.style21,
+.style22 {
+  width: 1.3177159590043923vw
+}
+.style21 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbysoqm.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 2.269399707174231vw;
+  flex-direction: column;
+  margin-top: .7320638631482773vw;
+  height: .8784773060029283vw;
+  z-index: 20
+}
+.style22 {
+  margin-left: 0;
+  margin-top: .16471393635471954vw;
+  height: .2196204435423911vw;
+  z-index: 21
+}
+.productpagecontainer2image5row1 {
+  display: flex;
+  margin-left: .16471449487554904vw;
+  margin-top: .10980966325036604vw;
+  width: .9882869692532943vw;
+  height: .21961709241741398vw
+}
+.style23,
+.style24 {
+  width: .38433382137628114vw
+}
+.style23 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbysp7f.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  height: .054900363458546854vw;
+  z-index: 22
+}
+.style24 {
+  height: .05490483162518302vw;
+  z-index: 23
+}
+.style25 {
+  margin-left: .38433382137628114vw;
+  width: .21961932650073207vw;
+  height: .21961709241741398vw;
+  z-index: 24
+}
+.style13 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .6588579795021962vw;
+  margin-top: .43923865300146414vw;
+  z-index: 12
+}
+.style20 {
+  margin-left: 2.269399707174231vw;
+  margin-top: .6588585380230257vw;
+  width: 1.3177159590043923vw;
+  height: .8601516790655312vw;
+  z-index: 19
+}
+.style12 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7320644216691069vw;
+  margin-top: .43923865300146414vw;
+  z-index: 11
+}
+.style50 {
+  margin-left: 2.269399707174231vw;
+  margin-top: .5124450951683748vw;
+  width: 1.0248901903367496vw;
+  height: 1.0248915866388235vw;
+  z-index: 49
+}
+.style47 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .6588579795021962vw;
+  margin-top: .43923865300146414vw;
+  z-index: 46
+}
+.style4 {
+  background-color: #fbfbfb;
+  display: flex;
+  margin-left: 0;
+  width: 100vw;
+  height: 5.856515373352855vw;
+  z-index: 3
+}
+.productpagecontainer3col0 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: .9516837481698389vw;
+  width: 85.65153733528551vw;
+  height: 4.978038067349927vw;
+  flex-direction: column
+}
+.productpagecontainer3col0row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 85.43191800878478vw;
+  height: 3.513909224011713vw
+}
+.style27,
+.style9 {
+  color: #303030;
+  font-family: roboto-1,serif
+}
+.style27 {
+  font-weight: 900;
+  margin-left: 0;
+  margin-top: 0;
+  font-size: 2.6354319180087846vw;
+  z-index: 26
+}
+.style9 {
+  font-size: .8784773060029283vw;
+  margin-left: 2.049780380673499vw;
+  margin-top: .8052708638360175vw;
+  z-index: 8
+}
+.style30 {
+  background-color: #f9f9f9;
+  border-left: .07320644216691069vw solid #e1e1e1;
+  border-right: .07320644216691069vw solid #e1e1e1;
+  border-top: .07320644216691069vw solid #e1e1e1;
+  border-bottom: .07320644216691069vw solid #e1e1e1;
+  display: flex;
+  margin-left: 3.001464128843338vw;
+  margin-top: .5124450951683748vw;
+  width: 33.674963396778914vw;
+  height: 2.9282576866764276vw;
+  z-index: 29;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.productpagecontainer3col0row0container7row0 {
+  display: flex;
+  margin-left: 1.4641288433382138vw;
+  margin-top: 0;
+  width: 32.210834553440705vw;
+  height: 2.9282576866764276vw;
+  align-items: center
+}
+.style32 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 300;
+  margin-left: 0;
+  z-index: 31;
+  align-self: center
+}
+.style31 {
+  background-color: #ff8e0a;
+  display: flex;
+  margin-left: 24.011713030746705vw;
+  width: 5.124450951683748vw;
+  height: 2.9282576866764276vw;
+  z-index: 30;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 0 1.4641288433382138vw 0 1.4641288433382138vw
+}
+.style10,
+.style33 {
+  margin-top: .8052708638360175vw
+}
+.style33 {
+  width: 1.2722121499816983vw;
+  height: 1.3177159590043923vw;
+  margin-left: 1.6837481698389458vw;
+  z-index: 32
+}
+.style10 {
+  color: #ff8e0a;
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: 2.9282576866764276vw;
+  z-index: 9
+}
+.style29,
+.style52 {
+  position: relative;
+  display: flex
+}
+.style29 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbysq42.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  flex-direction: column;
+  margin-left: 2.562225475841874vw;
+  margin-top: 1.0272801009662678vw;
+  width: 2.1961932650073206vw;
+  height: 1.8558524538098806vw;
+  z-index: 28
+}
+.style52 {
+  background-color: #ff8e0a;
+  margin-left: 1.4641288433382138vw;
+  margin-top: -.1488027949633396vw;
+  width: 1.4641288433382138vw;
+  height: 1.4641288433382138vw;
+  z-index: 51;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  border-radius: 50%
+}
+.style54 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: .7320644216691069vw;
+  z-index: 53
+}
+.style51,
+.style53 {
+  position: relative;
+  display: flex
+}
+.style51 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbysrrk.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 3.6706525096083453vw;
+  margin-top: .8784773060029283vw;
+  flex-direction: column;
+  width: 2.1961932650073206vw;
+  height: 2.1961935442677354vw;
+  z-index: 50
+}
+.style53 {
+  background-color: #ff8e0a;
+  width: 1.4641288433382138vw;
+  height: 1.4641288433382138vw;
+  z-index: 52;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  border-radius: 50%
+}
+.style55 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: .7320644216691069vw;
+  z-index: 54
+}
+.productpagecontainer3col0row0col6 {
+  display: flex;
+  margin-left: 1.4537984420754027vw;
+  margin-top: .36603221083455345vw;
+  width: 4.026354319180088vw;
+  height: 2.781844802342606vw;
+  flex-direction: column
+}
+.style48,
+.style49 {
+  color: #303030;
+  font-family: roboto-1,serif
+}
+.style49 {
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 1.171303074670571vw;
+  z-index: 48
+}
+.style48 {
+  font-size: .8784773060029283vw;
+  margin-top: .07320644216691069vw;
+  z-index: 47
+}
+.style5,
+.style6 {
+  background-color: #fbfbfb;
+  margin-left: 0
+}
+.style6 {
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-top: 1.390922401171303vw;
+  width: 85.65153733528551vw;
+  height: .07320644216691069vw;
+  z-index: 5
+}
+.style5 {
+  box-shadow: 0 4px 6px 0 rgba(0,0,0,.10196078431372549);
+  display: flex;
+  margin-top: -.14705882352941177vh;
+  width: 100vw;
+  height: 3.733528550512445vw;
+  z-index: 4;
+  align-items: center;
+  justify-content: space-between
+}
+.style28 {
+  background-color: #ff8e0a;
+  display: flex;
+  width: 19.765739385065885vw;
+  height: 3.6603221083455346vw;
+  z-index: 27;
+  flex-direction: column
+}
+.productpagecontainer4container6row0 {
+  display: flex;
+  margin-left: 1.4641288433382138vw;
+  margin-top: 1.0248901903367496vw;
+  width: 10.468521229868228vw;
+  height: 1.5373352855051245vw
+}
+.productpagecontainer4container6row0col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .19094095746734308vw;
+  width: 1.7573120653367496vw;
+  height: 1.2186181667434vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style44,
+.style45,
+.style46 {
+  width: 1.7573120653367496vw;
+  height: .1419424836143393vw;
+  z-index: 44
+}
+.style44,
+.style46 {
+  width: 1.7569546120058566vw;
+  z-index: 43
+}
+.style46 {
+  width: 1.7573120653367496vw;
+  z-index: 45
+}
+.style34,
+.style36 {
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw
+}
+.style36 {
+  margin-left: 1.4637713900073206vw;
+  margin-top: 0;
+  color: #fff;
+  z-index: 35
+}
+.style34 {
+  color: #646464;
+  z-index: 33
+}
+.style35,
+.style37,
+.style38,
+.style39,
+.style40,
+.style41,
+.style42,
+.style43,
+.style56 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw;
+  z-index: 34
+}
+.style37,
+.style38,
+.style39,
+.style40,
+.style41,
+.style42,
+.style43,
+.style56 {
+  z-index: 36
+}
+.style38,
+.style39,
+.style40,
+.style41,
+.style42,
+.style43,
+.style56 {
+  z-index: 37
+}
+.style39,
+.style40,
+.style41,
+.style42,
+.style43,
+.style56 {
+  z-index: 38
+}
+.style40,
+.style41,
+.style42,
+.style43,
+.style56 {
+  z-index: 39
+}
+.style41,
+.style42,
+.style43,
+.style56 {
+  z-index: 40
+}
+.style42,
+.style43,
+.style56 {
+  z-index: 41
+}
+.style43,
+.style56 {
+  z-index: 42
+}
+.style56 {
+  z-index: 55
+}
+.productpagerow4,
+.style69 {
+  margin-left: 7.174231332357247vw
+}
+.style69 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  z-index: 68;
+  margin-top: 2.2058823529411766vh
+}
+.productpagerow4 {
+  display: flex;
+  margin-top: 4.411764705882353vh;
+  width: 85.65153733528551vw;
+  flex-wrap: wrap
+}
+.productpagerow4col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 6.881405563689604vw;
+  min-width: 62.666666666666664px;
+  height: 38.79941434846266vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style94,
+.style95,
+.style96,
+.style97,
+.style98 {
+  object-fit: cover;
+  border-left: .14641288433382138vw solid #ff8e0a;
+  border-right: .14641288433382138vw solid #ff8e0a;
+  border-top: .14641288433382138vw solid #ff8e0a;
+  border-bottom: .14641288433382138vw solid #ff8e0a;
+  width: 6.881405563689604vw;
+  height: 6.881405563689604vw;
+  z-index: 93
+}
+.style95,
+.style96,
+.style97,
+.style98 {
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  z-index: 94
+}
+.style96,
+.style97,
+.style98 {
+  z-index: 95
+}
+.style97,
+.style98 {
+  z-index: 96
+}
+.style98 {
+  z-index: 97
+}
+.style93 {
+  object-fit: cover;
+  margin-left: 1.171303074670571vw;
+  margin-top: 0;
+  width: 38.79941434846266vw;
+  min-width: 353.3333333333333px;
+  height: 38.79941434846266vw;
+  z-index: 92;
+  flex-grow: 1
+}
+.productpagerow4col2 {
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: .5124450951683748vw;
+  width: 34.11420204978038vw;
+  min-width: 310.6666666666667px;
+  height: 34.773060029282576vw;
+  flex-direction: column
+}
+.productpagerow4col2row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 36.603221083455345vw;
+  height: 1.171303074670571vw;
+  align-items: flex-end
+}
+.style83,
+.style85,
+.style87,
+.style89,
+.style91 {
+  width: .8434826249084919vw;
+  height: .808115968941595vw;
+  align-self: flex-end
+}
+.style83 {
+  margin-left: 0;
+  z-index: 82
+}
+.style85,
+.style87,
+.style89,
+.style91 {
+  margin-left: .5414345603038068vw;
+  z-index: 86
+}
+.style85,
+.style89,
+.style91 {
+  z-index: 84
+}
+.style89,
+.style91 {
+  z-index: 88
+}
+.style91 {
+  z-index: 90
+}
+.style100,
+.style99 {
+  color: #646464;
+  text-align: center;
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: 1.0839057352672035vw;
+  z-index: 98
+}
+.style100 {
+  color: #979797;
+  text-align: right;
+  margin-left: 16.837481698389457vw;
+  z-index: 99
+}
+.style101,
+.style57 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.7569546120058566vw;
+  font-weight: 700;
+  margin-left: 0;
+  margin-top: 1.171303074670571vw;
+  z-index: 56
+}
+.style101 {
+  color: #59cf1f;
+  font-size: 1.0248901903367496vw;
+  font-weight: 500;
+  margin-top: .5124450951683748vw;
+  z-index: 100
+}
+.productpagerow4col2row3 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 2.1961932650073206vw;
+  width: 16.251830161054173vw;
+  height: 2.9282576866764276vw;
+  align-items: center
+}
+.style102 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: 0;
+  z-index: 101;
+  align-self: center
+}
+.style73,
+.style74 {
+  display: flex;
+  width: 6.588579795021962vw;
+  height: 2.9282576866764276vw
+}
+.style73 {
+  margin-left: 1.2445095168374818vw;
+  flex-direction: column;
+  z-index: 72
+}
+.style74 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #ff8e0a;
+  border-right: .07320644216691069vw solid #ff8e0a;
+  border-top: .07320644216691069vw solid #ff8e0a;
+  border-bottom: .07320644216691069vw solid #ff8e0a;
+  z-index: 73;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.style75 {
+  color: #ff8e0a;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  z-index: 74
+}
+.style77,
+.style78 {
+  display: flex;
+  width: 4.978038067349927vw;
+  height: 2.9282576866764276vw
+}
+.style77 {
+  margin-left: .7320644216691069vw;
+  flex-direction: column;
+  z-index: 76
+}
+.style78 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  z-index: 77;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.style79 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  z-index: 78
+}
+.productpagerow4col2row4 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .7320644216691069vw;
+  width: 20.351390922401173vw;
+  height: 2.9282576866764276vw;
+  align-items: center
+}
+.style106 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: 0;
+  z-index: 105;
+  align-self: center
+}
+.style70 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 1.5373352855051245vw;
+  width: 4.978038067349927vw;
+  height: 2.9282576866764276vw;
+  z-index: 69;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.style76 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  z-index: 75
+}
+.style71 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: .7320644216691069vw;
+  width: 4.978038067349927vw;
+  height: 2.9282576866764276vw;
+  z-index: 70;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.style80 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  z-index: 79
+}
+.style72 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #ff8e0a;
+  border-right: .07320644216691069vw solid #ff8e0a;
+  border-top: .07320644216691069vw solid #ff8e0a;
+  border-bottom: .07320644216691069vw solid #ff8e0a;
+  display: flex;
+  margin-left: .7320644216691069vw;
+  width: 4.978038067349927vw;
+  height: 2.9282576866764276vw;
+  z-index: 71;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.style81 {
+  color: #ff8e0a;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  z-index: 80
+}
+.style2 {
+  background-color: #fff;
+  border-left: .14641288433382138vw solid #e2e2e2;
+  border-right: .14641288433382138vw solid #e2e2e2;
+  border-top: .14641288433382138vw solid #e2e2e2;
+  border-bottom: .14641288433382138vw solid #e2e2e2;
+  display: flex;
+  margin-left: 0;
+  margin-top: 2.9282576866764276vw;
+  width: 30.01464128843338vw;
+  height: 7.320644216691069vw;
+  z-index: 1;
+  border-radius: 1.8301610541727673vw
+}
+.style82 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: 2.6354319180087846vw;
+  font-weight: 700;
+  margin-left: 2.1961932650073206vw;
+  margin-top: 2.12298682284041vw;
+  width: 13.441835908903734vw;
+  height: 2.7086383601756956vw;
+  z-index: 81
+}
+.style107,
+.style108 {
+  display: flex;
+  width: 9.51683748169839vw;
+  height: 3.6603221083455346vw
+}
+.style107 {
+  margin-left: 13.90922401171303vw;
+  margin-top: 1.8301610541727673vw;
+  flex-direction: column;
+  z-index: 106
+}
+.style108 {
+  background-color: #ff8e0a;
+  z-index: 107;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1.8301610541727673vw
+}
+.style109 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  z-index: 108
+}
+.style110,
+.style111 {
+  display: flex;
+  width: 3.6603221083455346vw;
+  height: 3.6603221083455346vw
+}
+.style110 {
+  margin-left: .7320644216691069vw;
+  margin-top: 1.8301610541727673vw;
+  flex-direction: column;
+  z-index: 109
+}
+.style111 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  z-index: 110;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%
+}
+.style112 {
+  width: 1.555636896046852vw;
+  height: 1.3145614333592606vw;
+  z-index: 111
+}
+.productpagerow4col2row6 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 2.9282576866764276vw;
+  width: 35.94436310395315vw;
+  height: 2.9282576866764276vw
+}
+.style103 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: 0;
+  margin-top: .07320644216691069vw;
+  z-index: 102
+}
+.productpagerow4col2row6col1 {
+  display: flex;
+  margin-left: 1.6837481698389458vw;
+  margin-top: 0;
+  width: 29.502196193265007vw;
+  height: 2.9282576866764276vw;
+  flex-direction: column;
+  justify-content: flex-end
+}
+.style104,
+.style114 {
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw
+}
+.style104 {
+  line-height: 1.5373352855051245vw;
+  margin-left: 0;
+  margin-top: 0;
+  color: #646464;
+  z-index: 103
+}
+.style114 {
+  color: #ff8e0a;
+  margin-left: 25.62225475841874vw;
+  margin-top: 1.5373352855051245vw;
+  z-index: 113
+}
+.productpagerow4col2row7 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 1.4641288433382138vw;
+  width: 30.380673499267935vw;
+  height: 1.8301610541727673vw;
+  align-items: center
+}
+.style105 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: 0;
+  z-index: 104;
+  align-self: center
+}
+.style62,
+.style63,
+.style64 {
+  object-fit: cover;
+  margin-left: 1.2445095168374818vw;
+  width: 2.9282576866764276vw;
+  height: 1.8301610541727673vw;
+  z-index: 61
+}
+.style63,
+.style64 {
+  margin-left: .7320644216691069vw;
+  z-index: 62
+}
+.style64 {
+  z-index: 63
+}
+.style65 {
+  z-index: 64
+}
+.style65,
+.style66,
+.style67,
+.style68 {
+  object-fit: cover;
+  margin-left: .7320644216691069vw;
+  width: 2.9282576866764276vw;
+  height: 1.8301610541727673vw
+}
+.style66 {
+  border-radius: .29282576866764276vw;
+  z-index: 65
+}
+.style67,
+.style68 {
+  z-index: 66
+}
+.style68 {
+  z-index: 67
+}
+.style113 {
+  color: #ff8e0a;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  position: relative;
+  margin-left: -2.342606149341142vw;
+  margin-top: 33.674963396778914vw;
+  z-index: 112
+}
+.style115 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbysz0m.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: 8.823529411764707vh;
+  width: 11.200585651537335vw;
+  height: 3.6603221083455346vw;
+  z-index: 114;
+  align-items: center;
+  justify-content: center
+}
+.style121 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 1.3177159590043923vw;
+  font-weight: 700;
+  z-index: 120
+}
+.style118 {
+  position: relative;
+  margin-left: 7.174231332357247vw;
+  margin-top: -.3676470588235294vh;
+  width: 85.65153733528551vw;
+  height: .21961932650073207vw;
+  z-index: 117
+}
+.productpagecontainer0col0,
+.style1 {
+  display: flex;
+  width: 63.6896046852123vw
+}
+.style1 {
+  background-color: #fff;
+  margin-left: 7.174231332357247vw;
+  margin-top: .07352941176470588vh;
+  z-index: 0;
+  height: 206.66178623718886vw
+}
+.productpagecontainer0col0 {
+  margin-left: 0;
+  margin-top: 2.049780380673499vw;
+  height: 200.21961932650072vw;
+  flex-direction: column
+}
+.style141,
+.style142 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  margin-left: 2.1961932650073206vw
+}
+.style141 {
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 1.7569546120058566vw;
+  z-index: 140
+}
+.style142 {
+  font-size: 1.0248901903367496vw;
+  line-height: 1.5373352855051245vw;
+  margin-top: 1.390922401171303vw;
+  width: 59.297218155197655vw;
+  height: 7.979502196193265vw;
+  z-index: 141;
+  text-overflow: clip;
+  overflow: hidden
+}
+.style132 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 0;
+  margin-top: .14641288433382138vw;
+  width: 63.6896046852123vw;
+  height: 95.38799414348463vw;
+  z-index: 131;
+  justify-content: center
+}
+.productpagecontainer0col0container23col0 {
+  position: relative;
+  display: flex;
+  margin-left: 0;
+  margin-top: 2.781844802342606vw;
+  width: 63.6896046852123vw;
+  height: 123.49926793557833vw;
+  align-items: center;
+  flex-direction: column
+}
+.style134 {
+  background-color: #fff;
+  display: flex;
+  margin-top: 0;
+  width: 63.6896046852123vw;
+  height: 58.05270863836017vw;
+  z-index: 133;
+  align-items: flex-end;
+  justify-content: center
+}
+.style133,
+.style134,
+.style135,
+.style144 {
+  position: relative;
+  flex-shrink: 0
+}
+.style144 {
+  object-fit: cover;
+  width: 59.297218155197655vw;
+  height: 59.51683748169839vw;
+  z-index: 143
+}
+.style133,
+.style135 {
+  background-color: #fff;
+  display: flex;
+  margin-top: 1.4641288433382138vw;
+  width: 63.6896046852123vw;
+  height: 63.98243045387994vw;
+  z-index: 132
+}
+.style135 {
+  margin-left: 0;
+  margin-top: 16.691068814055637vw;
+  height: 58.05270863836017vw;
+  z-index: 134;
+  align-items: center;
+  flex-direction: column
+}
+.style143,
+.style145 {
+  width: 59.297218155197655vw;
+  align-self: center;
+  flex-shrink: 0
+}
+.style145 {
+  object-fit: cover;
+  position: relative;
+  margin-top: -3.953147877013177vw;
+  height: 59.51683748169839vw;
+  z-index: 144
+}
+.style143 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.5373352855051245vw;
+  margin-top: 65.30014641288433vw;
+  height: 5.490483162518301vw;
+  z-index: 142;
+  text-overflow: clip;
+  overflow: hidden
+}
+.style146,
+.style148 {
+  margin-left: 2.1961932650073206vw
+}
+.style146 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.7569546120058566vw;
+  font-weight: 700;
+  margin-top: 43.411420204978036vw;
+  z-index: 145
+}
+.style148 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-top: 1.390922401171303vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 147;
+  align-items: center;
+  border-radius: 1.4641288433382138vw 1.4641288433382138vw 0 0
+}
+.style156 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 155;
+  align-self: center
+}
+.style172 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 17.898975109809662vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 171
+}
+.style164 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 163;
+  align-self: center
+}
+.style149 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.07320644216691069vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 148;
+  align-items: center
+}
+.style157 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 156;
+  align-self: center
+}
+.style173 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 17.67935578330893vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 172
+}
+.style165 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 164;
+  align-self: center
+}
+.style150 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.14641288433382138vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 149;
+  align-items: center
+}
+.style158 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 157;
+  align-self: center
+}
+.style174 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 19.216691068814054vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 173
+}
+.style166 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 165;
+  align-self: center
+}
+.style152 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.14641288433382138vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 151;
+  align-items: center
+}
+.style160 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 159;
+  align-self: center
+}
+.style176 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 18.55783308931186vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 175
+}
+.style168 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 167;
+  align-self: center
+}
+.style154 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.14641288433382138vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 153;
+  align-items: center
+}
+.style162 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 161;
+  align-self: center
+}
+.style178 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 18.338213762811126vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 177
+}
+.style170 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 169;
+  align-self: center
+}
+.style151 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.14641288433382138vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 150;
+  align-items: center
+}
+.style159 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 158;
+  align-self: center
+}
+.style175 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 18.338213762811126vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 174
+}
+.style167 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 166;
+  align-self: center
+}
+.style153 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.14641288433382138vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 152;
+  align-items: center
+}
+.style161 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 160;
+  align-self: center
+}
+.style177 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 15.33674963396779vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 176
+}
+.style169 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 168;
+  align-self: center
+}
+.style155 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: -.14641288433382138vw;
+  width: 46.85212298682284vw;
+  height: 2.9282576866764276vw;
+  z-index: 154;
+  align-items: center;
+  border-radius: 0 0 1.4641288433382138vw 1.4641288433382138vw
+}
+.style163 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.4641288433382138vw;
+  z-index: 162;
+  align-self: center
+}
+.style179 {
+  background-color: #e2e2e2;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 14.677891654465594vw;
+  width: 0;
+  height: 2.9282576866764276vw;
+  z-index: 178
+}
+.style171 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 700;
+  line-height: 1.7569546120058566vw;
+  margin-left: 1.500732064421669vw;
+  z-index: 170;
+  align-self: center
+}
+.style147,
+.style184 {
+  margin-left: 2.1961932650073206vw
+}
+.style147 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.7569546120058566vw;
+  font-weight: 700;
+  margin-top: 4.24597364568082vw;
+  z-index: 146
+}
+.style184 {
+  background-color: #ff8e0a;
+  display: flex;
+  margin-top: 2.12298682284041vw;
+  width: 9.809663250366032vw;
+  height: 3.6603221083455346vw;
+  z-index: 183;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1.8301610541727673vw
+}
+.style185 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  z-index: 184
+}
+.productpagecontainer0col0row14 {
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: 4.392386530014641vw;
+  width: 59.297218155197655vw;
+  height: 6.588579795021962vw
+}
+.style180 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 6.588579795021962vw;
+  height: 6.588579795021962vw;
+  z-index: 179;
+  border-radius: 50%
+}
+.productpagecontainer0col0row14col1 {
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  margin-top: 0;
+  width: 50.512445095168374vw;
+  height: 6.44216691068814vw;
+  flex-direction: column
+}
+.productpagecontainer0col0row14col1row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 50.512445095168374vw;
+  height: 1.171303074670571vw;
+  align-items: flex-end
+}
+.style181,
+.style183 {
+  font-family: roboto-1,serif
+}
+.style181 {
+  font-weight: 700;
+  margin-left: 0;
+  width: 24.890190336749633vw;
+  height: 1.171303074670571vw;
+  color: #303030;
+  font-size: 1.171303074670571vw;
+  z-index: 180
+}
+.style183 {
+  color: #979797;
+  font-size: .8784773060029283vw;
+  margin-left: 13.45579446147511vw;
+  z-index: 182
+}
+.style84,
+.style86,
+.style88,
+.style90,
+.style92 {
+  margin-left: .8052708638360175vw;
+  width: .8434826249084919vw;
+  height: .8081126178166179vw;
+  z-index: 83;
+  align-self: flex-end
+}
+.style86,
+.style88,
+.style90,
+.style92 {
+  margin-left: .5414345603038068vw;
+  z-index: 87
+}
+.style86,
+.style90,
+.style92 {
+  z-index: 85
+}
+.style90,
+.style92 {
+  z-index: 89
+}
+.style92 {
+  z-index: 91
+}
+.style182 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: 0;
+  margin-top: .7320644216691069vw;
+  width: 50.512445095168374vw;
+  height: 4.538799414348462vw;
+  z-index: 181
+}
+.style116 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbysz9c.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 18.448023426061493vw;
+  margin-top: 119.26470588235294vh;
+  width: 17.715959004392385vw;
+  height: 3.6603221083455346vw;
+  z-index: 115;
+  align-items: center;
+  justify-content: center
+}
+.style122 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.3177159590043923vw;
+  font-weight: 700;
+  z-index: 121
+}
+.style117 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5cizkcbyszhn.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-top: 119.26470588235294vh;
+  width: 11.420204978038067vw;
+  height: 3.6603221083455346vw;
+  z-index: 116;
+  align-items: center;
+  justify-content: center
+}
+.style123 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.3177159590043923vw;
+  font-weight: 700;
+  z-index: 122
+}
+.style124 {
+  background-color: #fff;
+  box-shadow: 0 3px 6px 0 rgba(0,0,0,.1607843137254902);
+  display: flex;
+  margin-left: 25.47584187408492vw;
+  margin-top: 131.1764705882353vh;
+  width: 19.765739385065885vw;
+  height: 33.74816983894583vw;
+  z-index: 123
+}
+.productpagecontainer22col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 17.569546120058565vw;
+  height: 31.185944363103953vw;
+  flex-direction: column
+}
+.style125 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 17.569546120058565vw;
+  height: 17.569546120058565vw;
+  z-index: 124
+}
+.productpagecontainer22col0row1 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .7320644216691069vw;
+  width: 6.383151365757687vw;
+  height: .8081126178166179vw;
+  justify-content: space-between
+}
+.style127,
+.style128,
+.style129,
+.style130,
+.style131 {
+  width: .8434826249084919vw;
+  height: .8081126178166179vw;
+  z-index: 126
+}
+.style128,
+.style129,
+.style130,
+.style131 {
+  z-index: 128
+}
+.style128,
+.style130,
+.style131 {
+  z-index: 127
+}
+.style130,
+.style131 {
+  z-index: 129
+}
+.style131 {
+  z-index: 130
+}
+.style126,
+.style136 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: 0;
+  margin-top: .7292226676885066vw;
+  z-index: 125
+}
+.style136 {
+  color: #303030;
+  font-size: 1.7569546120058566vw;
+  font-weight: 700;
+  margin-top: 1.4641288433382138vw;
+  width: 9.635083043557833vw;
+  height: 2.7086383601756956vw;
+  z-index: 135
+}
+.productpagecontainer22col0row4,
+.style137 {
+  display: flex;
+  margin-left: 0;
+  height: 3.6603221083455346vw
+}
+.productpagecontainer22col0row4 {
+  margin-top: .7320644216691069vw;
+  width: 13.90922401171303vw
+}
+.style137 {
+  background-color: #ff8e0a;
+  width: 9.51683748169839vw;
+  z-index: 136;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1.8301610541727673vw
+}
+.style138 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  z-index: 137
+}
+.style139 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: .7320644216691069vw;
+  width: 3.6603221083455346vw;
+  height: 3.6603221083455346vw;
+  z-index: 138;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 50%
+}
+.style140 {
+  width: 1.555636896046852vw;
+  height: 1.3145614333592606vw;
+  z-index: 139
+}
+.style186,
+.style188 {
+  margin-left: 7.174231332357247vw
+}
+.style186 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.7569546120058566vw;
+  font-weight: 700;
+  z-index: 185;
+  margin-top: 16.029411764705884vh
+}
+.style188 {
+  display: grid;
+  margin-top: 2.794117647058824vh;
+  width: 85.65153733528551vw;
+  grid: none/repeat(auto-fit,minmax(130px,1fr));
+  grid-gap: 0
+}
+.style189 {
+  background-color: #fff;
+  display: flex;
+  z-index: 188
+}
+.productpagegrid0container46col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style197 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 196
+}
+.productpagegrid0container46col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .3660500835010981vw;
+  width: 48.484848484848484%;
+  height: .8416238675878477vw;
+  justify-content: space-between
+}
+.style192 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 191
+}
+.style193,
+.style194,
+.style195,
+.style196 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 193
+}
+.style193,
+.style195,
+.style196 {
+  z-index: 192
+}
+.style195,
+.style196 {
+  z-index: 194
+}
+.style196 {
+  z-index: 195
+}
+.style190,
+.style191 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688999874176428vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 189
+}
+.style191 {
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 190
+}
+.style198 {
+  background-color: #fff;
+  display: flex;
+  z-index: 197
+}
+.productpagegrid0container47col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style206 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 205
+}
+.productpagegrid0container47col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .3660500835010981vw;
+  width: 48.484848484848484%;
+  height: .8416238675878477vw;
+  justify-content: space-between
+}
+.style201 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 200
+}
+.style202,
+.style203,
+.style204,
+.style205 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 202
+}
+.style202,
+.style204,
+.style205 {
+  z-index: 201
+}
+.style204,
+.style205 {
+  z-index: 203
+}
+.style205 {
+  z-index: 204
+}
+.style199,
+.style200 {
+  font-family: roboto-1,serif;
+  margin-left: 0;
+  width: 100%;
+  height: 1.2445095168374818vw
+}
+.style199 {
+  text-overflow: clip;
+  overflow: hidden;
+  color: #303030;
+  font-size: .9516837481698389vw;
+  margin-top: .7688999874176428vw;
+  z-index: 198
+}
+.style200 {
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 199
+}
+.style207 {
+  background-color: #fff;
+  display: flex;
+  z-index: 206
+}
+.productpagegrid0container48col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style215 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 214
+}
+.productpagegrid0container48col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .3660500835010981vw;
+  width: 48.484848484848484%;
+  height: .8416238675878477vw;
+  justify-content: space-between
+}
+.style210 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 209
+}
+.style211,
+.style212,
+.style213,
+.style214 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 211
+}
+.style211,
+.style213,
+.style214 {
+  z-index: 210
+}
+.style213,
+.style214 {
+  z-index: 212
+}
+.style214 {
+  z-index: 213
+}
+.style208,
+.style209 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688999874176428vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 207
+}
+.style209 {
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 208
+}
+.style216 {
+  background-color: #fff;
+  display: flex;
+  z-index: 215
+}
+.productpagegrid0container49col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style224 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 223
+}
+.productpagegrid0container49col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .3660500835010981vw;
+  width: 48.484848484848484%;
+  height: .8416238675878477vw;
+  justify-content: space-between
+}
+.style219 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 218
+}
+.style220,
+.style221,
+.style222,
+.style223 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 220
+}
+.style220,
+.style222,
+.style223 {
+  z-index: 219
+}
+.style222,
+.style223 {
+  z-index: 221
+}
+.style223 {
+  z-index: 222
+}
+.style217,
+.style218 {
+  font-family: roboto-1,serif;
+  margin-left: 0;
+  width: 100%;
+  height: 1.2445095168374818vw
+}
+.style217 {
+  text-overflow: clip;
+  overflow: hidden;
+  color: #303030;
+  font-size: .9516837481698389vw;
+  margin-top: .7688999874176428vw;
+  z-index: 216
+}
+.style218 {
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 217
+}
+.style225 {
+  background-color: #fff;
+  display: flex;
+  z-index: 224
+}
+.productpagegrid0container50col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style233 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 232
+}
+.productpagegrid0container50col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .3660500835010981vw;
+  width: 48.484848484848484%;
+  height: .8416238675878477vw;
+  justify-content: space-between
+}
+.style228 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 227
+}
+.style229,
+.style230,
+.style231,
+.style232 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 229
+}
+.style229,
+.style231,
+.style232 {
+  z-index: 228
+}
+.style231,
+.style232 {
+  z-index: 230
+}
+.style232 {
+  z-index: 231
+}
+.style226,
+.style227 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688999874176428vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 225
+}
+.style227 {
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 226
+}
+.style234 {
+  background-color: #fff;
+  display: flex;
+  z-index: 233
+}
+.productpagegrid0container51col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style242 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 241
+}
+.productpagegrid0container51col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .3660500835010981vw;
+  width: 48.484848484848484%;
+  height: .8416238675878477vw;
+  justify-content: space-between
+}
+.style237 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 236
+}
+.style238,
+.style239,
+.style240,
+.style241 {
+  width: 15%;
+  height: .8416238675878477vw;
+  z-index: 238
+}
+.style238,
+.style240,
+.style241 {
+  z-index: 237
+}
+.style240,
+.style241 {
+  z-index: 239
+}
+.style241 {
+  z-index: 240
+}
+.style235,
+.style236 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688999874176428vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 234
+}
+.style236 {
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 235
+}
+.style187,
+.style243 {
+  margin-left: 7.174231332357247vw
+}
+.style187 {
+  color: #646464;
+  font-family: roboto-1,serif;
+  font-size: 1.7569546120058566vw;
+  font-weight: 700;
+  z-index: 186;
+  margin-top: 8.38235294117647vh
+}
+.style243 {
+  display: grid;
+  margin-top: 2.794117647058824vh;
+  width: 85.65153733528551vw;
+  grid: none/repeat(auto-fit,minmax(130px,1fr));
+  grid-gap: 0
+}
+.style244 {
+  background-color: #fff;
+  display: flex;
+  z-index: 243
+}
+.productpagegrid1container52col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style252 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 251
+}
+.productpagegrid1container52col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style247 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 246
+}
+.style248,
+.style249,
+.style250,
+.style251 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 248
+}
+.style248,
+.style250,
+.style251 {
+  z-index: 247
+}
+.style250,
+.style251 {
+  z-index: 249
+}
+.style251 {
+  z-index: 250
+}
+.style245,
+.style246 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 244
+}
+.style246 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 245
+}
+.style253 {
+  background-color: #fff;
+  display: flex;
+  z-index: 252
+}
+.productpagegrid1container53col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style261 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 260
+}
+.productpagegrid1container53col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style256 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 255
+}
+.style257,
+.style258,
+.style259,
+.style260 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 257
+}
+.style257,
+.style259,
+.style260 {
+  z-index: 256
+}
+.style259,
+.style260 {
+  z-index: 258
+}
+.style260 {
+  z-index: 259
+}
+.style254,
+.style255 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  margin-left: 0;
+  width: 100%;
+  height: 1.2445095168374818vw
+}
+.style254 {
+  text-overflow: clip;
+  overflow: hidden;
+  font-size: .9516837481698389vw;
+  margin-top: .7688821147510981vw;
+  z-index: 253
+}
+.style255 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 254
+}
+.style262 {
+  background-color: #fff;
+  display: flex;
+  z-index: 261
+}
+.productpagegrid1container54col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style270 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 269
+}
+.productpagegrid1container54col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style265 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 264
+}
+.style266,
+.style267,
+.style268,
+.style269 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 266
+}
+.style266,
+.style268,
+.style269 {
+  z-index: 265
+}
+.style268,
+.style269 {
+  z-index: 267
+}
+.style269 {
+  z-index: 268
+}
+.style263,
+.style264 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 262
+}
+.style264 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 263
+}
+.style271 {
+  background-color: #fff;
+  display: flex;
+  z-index: 270
+}
+.productpagegrid1container55col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style279 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 278
+}
+.productpagegrid1container55col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style274 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 273
+}
+.style275,
+.style276,
+.style277,
+.style278 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 275
+}
+.style275,
+.style277,
+.style278 {
+  z-index: 274
+}
+.style277,
+.style278 {
+  z-index: 276
+}
+.style278 {
+  z-index: 277
+}
+.style272,
+.style273 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  margin-left: 0;
+  width: 100%;
+  height: 1.2445095168374818vw
+}
+.style272 {
+  text-overflow: clip;
+  overflow: hidden;
+  font-size: .9516837481698389vw;
+  margin-top: .7688821147510981vw;
+  z-index: 271
+}
+.style273 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 272
+}
+.style280 {
+  background-color: #fff;
+  display: flex;
+  z-index: 279
+}
+.productpagegrid1container56col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style288 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 287
+}
+.productpagegrid1container56col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style283 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 282
+}
+.style284,
+.style285,
+.style286,
+.style287 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 284
+}
+.style284,
+.style286,
+.style287 {
+  z-index: 283
+}
+.style286,
+.style287 {
+  z-index: 285
+}
+.style287 {
+  z-index: 286
+}
+.style281,
+.style282 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 280
+}
+.style282 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 281
+}
+.style289 {
+  background-color: #fff;
+  display: flex;
+  z-index: 288
+}
+.productpagegrid1container57col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style297 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 296
+}
+.productpagegrid1container57col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style292 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 291
+}
+.style293,
+.style294,
+.style295,
+.style296 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 293
+}
+.style293,
+.style295,
+.style296 {
+  z-index: 292
+}
+.style295,
+.style296 {
+  z-index: 294
+}
+.style296 {
+  z-index: 295
+}
+.style290,
+.style291 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 289
+}
+.style291 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 290
+}
+.style298 {
+  background-color: #fff;
+  display: flex;
+  z-index: 297
+}
+.productpagegrid1container58col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style306 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 305
+}
+.productpagegrid1container58col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style301 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 300
+}
+.style302,
+.style303,
+.style304,
+.style305 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 302
+}
+.style302,
+.style304,
+.style305 {
+  z-index: 301
+}
+.style304,
+.style305 {
+  z-index: 303
+}
+.style305 {
+  z-index: 304
+}
+.style299,
+.style300 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 298
+}
+.style300 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 299
+}
+.style307 {
+  background-color: #fff;
+  display: flex;
+  z-index: 306
+}
+.productpagegrid1container59col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style315 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 314
+}
+.productpagegrid1container59col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style310 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 309
+}
+.style311,
+.style312,
+.style313,
+.style314 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 311
+}
+.style311,
+.style313,
+.style314 {
+  z-index: 310
+}
+.style313,
+.style314 {
+  z-index: 312
+}
+.style314 {
+  z-index: 313
+}
+.style308,
+.style309 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  margin-left: 0;
+  width: 100%;
+  height: 1.2445095168374818vw
+}
+.style308 {
+  text-overflow: clip;
+  overflow: hidden;
+  font-size: .9516837481698389vw;
+  margin-top: .7688821147510981vw;
+  z-index: 307
+}
+.style309 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 308
+}
+.style316 {
+  background-color: #fff;
+  display: flex;
+  z-index: 315
+}
+.productpagegrid1container60col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style324 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 323
+}
+.productpagegrid1container60col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style319 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 318
+}
+.style320,
+.style321,
+.style322,
+.style323 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 320
+}
+.style320,
+.style322,
+.style323 {
+  z-index: 319
+}
+.style322,
+.style323 {
+  z-index: 321
+}
+.style323 {
+  z-index: 322
+}
+.style317,
+.style318 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 316
+}
+.style318 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 317
+}
+.style325 {
+  background-color: #fff;
+  display: flex;
+  z-index: 324
+}
+.productpagegrid1container61col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style333 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 332
+}
+.productpagegrid1container61col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style328 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 327
+}
+.style329,
+.style330,
+.style331,
+.style332 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 329
+}
+.style329,
+.style331,
+.style332 {
+  z-index: 328
+}
+.style331,
+.style332 {
+  z-index: 330
+}
+.style332 {
+  z-index: 331
+}
+.style326,
+.style327 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  margin-left: 0;
+  width: 100%;
+  height: 1.2445095168374818vw
+}
+.style326 {
+  text-overflow: clip;
+  overflow: hidden;
+  font-size: .9516837481698389vw;
+  margin-top: .7688821147510981vw;
+  z-index: 325
+}
+.style327 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 326
+}
+.style334 {
+  background-color: #fff;
+  display: flex;
+  z-index: 333
+}
+.productpagegrid1container62col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style342 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 341
+}
+.productpagegrid1container62col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style337 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 336
+}
+.style338,
+.style339,
+.style340,
+.style341 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 338
+}
+.style338,
+.style340,
+.style341 {
+  z-index: 337
+}
+.style340,
+.style341 {
+  z-index: 339
+}
+.style341 {
+  z-index: 340
+}
+.style335,
+.style336 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 334
+}
+.style336 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 335
+}
+.style343 {
+  background-color: #fff;
+  display: flex;
+  z-index: 342
+}
+.productpagegrid1container63col0 {
+  display: flex;
+  margin-left: 1.0980966325036603vw;
+  margin-top: 1.0980966325036603vw;
+  width: 84.61538461538461%;
+  height: 17.27672035139092vw;
+  flex-direction: column
+}
+.style351 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 12.079062957540264vw;
+  z-index: 350
+}
+.productpagegrid1container63col0row1 {
+  display: flex;
+  margin-left: .07320644216691069vw;
+  margin-top: .36603221083455345vw;
+  width: 48.484848484848484%;
+  height: .841659612920937vw;
+  justify-content: space-between
+}
+.style346 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 345
+}
+.style347,
+.style348,
+.style349,
+.style350 {
+  width: 15%;
+  height: .841659612920937vw;
+  z-index: 347
+}
+.style347,
+.style349,
+.style350 {
+  z-index: 346
+}
+.style349,
+.style350 {
+  z-index: 348
+}
+.style350 {
+  z-index: 349
+}
+.style344,
+.style345 {
+  color: #303030;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  margin-left: 0;
+  margin-top: .7688821147510981vw;
+  width: 100%;
+  height: 1.2445095168374818vw;
+  z-index: 343
+}
+.style345 {
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  margin-top: .7320644216691069vw;
+  z-index: 344
+}
+.style392 {
+  background-color: #fff;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: 4.411764705882353vh;
+  width: 85.65153733528551vw;
+  height: 3.6603221083455346vw;
+  z-index: 391
+}
+.style394 {
+  margin-left: 38.95560358139641vw;
+  margin-top: 1.8018507503660322vw;
+  width: .1384952930545388vw;
+  height: .205857373261347vw;
+  z-index: 393
+}
+.productpagecontainer69col1 {
+  display: flex;
+  margin-left: -.07204471884150805vw;
+  margin-top: 1.479284864568082vw;
+  width: .17145249016288433vw;
+  height: .8530266288433382vw;
+  flex-direction: column
+}
+.style398 {
+  margin-top: 0;
+  width: .17145249016288433vw;
+  height: .1967780586566618vw;
+  z-index: 397
+}
+.style395 {
+  margin-top: .45882709553440704vw;
+  width: .17020140350475843vw;
+  height: .1974214746522694vw;
+  z-index: 394
+}
+.productpagecontainer69col2 {
+  display: flex;
+  margin-left: .04825619967057101vw;
+  margin-top: 1.1704094413433381vw;
+  width: 1.4594104593704247vw;
+  height: 1.4824304538799415vw;
+  flex-direction: column
+}
+.style393 {
+  margin-left: .011384888588945827vw;
+  margin-top: 0;
+  width: 1.4594104593704247vw;
+  height: 1.1698732613469984vw;
+  z-index: 392
+}
+.productpagecontainer69col2row1 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .05326054630307467vw;
+  width: .5236870024249634vw;
+  height: .17382955481332357vw
+}
+.style397 {
+  margin-left: 0;
+  width: .19533037266654465vw;
+  height: .17382955481332357vw;
+  z-index: 396
+}
+.style396 {
+  margin-left: .12262436516288433vw;
+  width: .2057322645955344vw;
+  height: .14069363103953147vw;
+  z-index: 395
+}
+.style399 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  margin-left: .7336729616581259vw;
+  margin-top: 1.0980966325036603vw;
+  z-index: 398
+}
+.style354 {
+  background-color: #f6f6f6;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  display: flex;
+  margin-left: 0;
+  margin-top: 10.294117647058822vh;
+  width: 100vw;
+  height: 13.90922401171303vw;
+  z-index: 353
+}
+.productpagecontainer66col0 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: 2.049780380673499vw;
+  width: 76.79355783308931vw;
+  height: 8.711566617862372vw;
+  flex-direction: column
+}
+.style362,
+.style363 {
+  font-family: roboto-1,serif;
+  line-height: 2.1961932650073206vw
+}
+.style363 {
+  font-weight: 700;
+  margin-top: 0;
+  color: #646464;
+  font-size: 1.171303074670571vw;
+  z-index: 362
+}
+.style362 {
+  color: #979797;
+  font-size: .9516837481698389vw;
+  margin-top: 1.4641288433382138vw;
+  z-index: 361
+}
+.style352 {
+  background-color: #232323;
+  display: flex;
+  margin-left: 0;
+  width: 100vw;
+  height: 18.301610541727673vw;
+  z-index: 351
+}
+.productpagecontainer64col0 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: 5.856515373352855vw;
+  width: 1.0248901903367496vw;
+  height: 5.34407027818448vw;
+  flex-direction: column
+}
+.style358,
+.style359 {
+  width: 1.0248901903367496vw
+}
+.style358 {
+  margin-top: 0;
+  height: 1.0248901903367496vw;
+  z-index: 357
+}
+.style359 {
+  margin-top: 1.3177159590043923vw;
+  height: .7826798133235725vw;
+  z-index: 358
+}
+.style361 {
+  margin-top: 1.1938941251830162vw;
+  width: .8207128477306003vw;
+  height: 1.0248901903367496vw;
+  z-index: 360
+}
+.productpagecontainer64col1 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: 2.781844802342606vw;
+  width: 8.199121522693996vw;
+  height: 8.49194729136164vw;
+  flex-direction: column
+}
+.style364 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  line-height: 1.5373352855051245vw;
+  margin-left: 0;
+  margin-top: 0;
+  z-index: 363
+}
+.style355,
+.style356,
+.style357 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: 1.7569546120058566vw;
+  margin-top: 1.4641288433382138vw;
+  z-index: 354
+}
+.style356,
+.style357 {
+  margin-top: 1.0248901903367496vw;
+  z-index: 355
+}
+.style357 {
+  margin-top: .9516837481698389vw;
+  z-index: 356
+}
+.productpagecontainer64col2 {
+  display: flex;
+  margin-left: 8.63836017569546vw;
+  margin-top: 2.781844802342606vw;
+  width: 7.613469985358711vw;
+  height: 10.468521229868228vw;
+  flex-direction: column
+}
+.style365,
+.style369 {
+  font-family: roboto-1,serif
+}
+.style365 {
+  color: #fff;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 1.171303074670571vw;
+  line-height: 1.5373352855051245vw;
+  z-index: 364
+}
+.style369 {
+  color: rgba(255,255,255,.800000011920929);
+  font-size: .8784773060029283vw;
+  line-height: 1.7569546120058566vw;
+  margin-top: .7320644216691069vw;
+  z-index: 368
+}
+.productpagecontainer64col3 {
+  display: flex;
+  margin-left: 9.224011713030746vw;
+  margin-top: 2.781844802342606vw;
+  width: 6.808199121522694vw;
+  height: 10.468521229868228vw;
+  flex-direction: column
+}
+.style366,
+.style370 {
+  font-family: roboto-1,serif
+}
+.style366 {
+  color: #fff;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 1.171303074670571vw;
+  line-height: 1.5373352855051245vw;
+  z-index: 365
+}
+.style370 {
+  color: rgba(255,255,255,.800000011920929);
+  font-size: .8784773060029283vw;
+  line-height: 1.7569546120058566vw;
+  margin-top: .7320644216691069vw;
+  z-index: 369
+}
+.productpagecontainer64col4 {
+  display: flex;
+  margin-left: 10.029282576866764vw;
+  margin-top: 2.781844802342606vw;
+  width: 6.149341142020498vw;
+  height: 10.468521229868228vw;
+  flex-direction: column
+}
+.style367,
+.style371 {
+  font-family: roboto-1,serif
+}
+.style367 {
+  color: #fff;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 1.171303074670571vw;
+  line-height: 1.5373352855051245vw;
+  z-index: 366
+}
+.style371 {
+  color: rgba(255,255,255,.800000011920929);
+  font-size: .8784773060029283vw;
+  line-height: 1.7569546120058566vw;
+  margin-top: .7320644216691069vw;
+  z-index: 370
+}
+.productpagecontainer64col5 {
+  display: flex;
+  margin-left: 9.223993840364201vw;
+  margin-top: 2.781844802342606vw;
+  width: 19.765739385065885vw;
+  height: 11.190112268942167vw;
+  flex-direction: column
+}
+.style368 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 1.171303074670571vw;
+  font-weight: 700;
+  line-height: 1.5373352855051245vw;
+  margin-top: 0;
+  z-index: 367
+}
+.style368,
+.style372,
+.style373 {
+  margin-left: .00001787266654465593vw
+}
+.style372 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  line-height: 1.3177159590043923vw;
+  margin-top: .7320644216691069vw;
+  z-index: 371
+}
+.style373 {
+  background-color: #f9f9f9;
+  display: flex;
+  margin-top: 1.4641288433382138vw;
+  width: 19.765739385065885vw;
+  height: 2.9282576866764276vw;
+  z-index: 372;
+  align-items: center;
+  border-radius: 1.4641288433382138vw
+}
+.style376 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: .9516837481698389vw;
+  font-weight: 300;
+  margin-left: 1.4641288433382138vw;
+  z-index: 375;
+  align-self: center
+}
+.style374 {
+  background-color: #ff8e0a;
+  display: flex;
+  margin-left: 4.904831625183016vw;
+  width: 4.392386530014641vw;
+  height: 2.9282576866764276vw;
+  z-index: 373;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 0 1.4641288433382138vw 0 1.4641288433382138vw
+}
+.style375 {
+  width: 1.610541727672035vw;
+  height: 1.1560398174414348vw;
+  z-index: 374
+}
+.productpagecontainer64col5row3 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 1.0980966325036603vw;
+  width: 7.000401777543924vw;
+  height: .9412103655746705vw;
+  justify-content: space-between
+}
+.style382 {
+  width: .5088884345259883vw;
+  height: .9412103655746705vw;
+  z-index: 381
+}
+.style377,
+.style381 {
+  width: 1.0588840021046853vw;
+  height: .8601042047950219vw;
+  z-index: 380
+}
+.style377 {
+  height: .7279894536969254vw;
+  z-index: 376
+}
+.style380 {
+  width: .8235724743777453vw;
+  height: .8235009837115667vw;
+  z-index: 379
+}
+.style353 {
+  background-color: #1a1a1a;
+  display: flex;
+  margin-left: 0;
+  width: 100vw;
+  height: 3.6603221083455346vw;
+  z-index: 352;
+  align-items: center
+}
+.style391 {
+  color: rgba(255,255,255,.5);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  font-weight: 300;
+  margin-left: 7.174231332357247vw;
+  z-index: 390;
+  align-self: center
+}
+.style383,
+.style384,
+.style385,
+.style386 {
+  object-fit: cover;
+  margin-left: 44.289897510980964vw;
+  width: 2.9282576866764276vw;
+  height: 1.8301610541727673vw;
+  z-index: 382;
+  align-self: center
+}
+.style384,
+.style385,
+.style386 {
+  margin-left: .7320644216691069vw;
+  z-index: 383
+}
+.style385,
+.style386 {
+  z-index: 384
+}
+.style386 {
+  z-index: 385
+}
+.style387 {
+  z-index: 386
+}
+.style387,
+.style388,
+.style389,
+.style390 {
+  object-fit: cover;
+  margin-left: .7320644216691069vw;
+  width: 2.9282576866764276vw;
+  height: 1.8301610541727673vw;
+  align-self: center
+}
+.style388 {
+  border-radius: .29282576866764276vw;
+  z-index: 387
+}
+.style389,
+.style390 {
+  z-index: 388
+}
+.style390 {
+  z-index: 389
+}
+.breakpoint-0 {
+  display: block
+}
